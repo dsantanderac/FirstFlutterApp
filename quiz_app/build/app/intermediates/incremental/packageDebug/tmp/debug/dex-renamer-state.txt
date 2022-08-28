@@ -1,4 +1,4 @@
-#Wed May 25 23:18:56 CLT 2022
+#Sat Aug 27 23:28:54 CLT 2022
 base.0=F\:\\repos\\Flutter\\quiz_app\\quiz_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
